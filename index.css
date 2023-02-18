@@ -1,0 +1,119 @@
+/* .a {
+    height: 1271px;
+width: 1728px;
+left: -865px;
+top: -70px;
+border-radius: 0px;
+} */
+
+#l1{
+    list-style: none;
+    /* color: white; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .l1{
+
+} */
+
+.emp{
+    height: 50px;
+width: 400px;
+left: 10px;
+top: 15px;
+}
+.img{
+    height:100px;
+    width:120px;
+}
+.t1{
+    height:100px;
+    width:120px;
+    font-size: 8px;
+    
+}
+.t2{
+    height:100px;
+    width:120px;
+    font-size: 8px;
+}
+.t3{
+    height:100px;
+    width:120px;
+    font-size: 8px;
+    
+}
+.t4{
+    height:300px;
+    width:200px;
+    font-size: 8px;
+    float: right;
+    
+}
+
+.secondT{
+    display: inline;
+}
+
+.un1{
+    list-style: none;
+}
+.un2{
+    list-style: none;
+}
+.un3{
+    list-style: none;
+}
+.un4{
+    list-style: none;
+}
+.un5{
+    list-style: none;
+}
+.un6{
+    list-style: none;
+}
+.un7{
+    list-style: none;
+}
+.un8{
+    list-style: none;
+}
+.un9{
+    list-style: none;
+}
+.un10{
+    list-style: none;
+}
+.un11{
+    list-style: none;
+}
+.un12{
+    list-style: none;
+}
+.un13{
+    list-style: none;
+}
+.un14{
+    list-style: none;
+}
+
+/* ..........link style....................... */
+.fb{
+    list-style: none;
+}
+.eml{
+    list-style: none;
+}
+.ingm{
+    list-style: none;
+}
+.gthb{
+    list-style: none;
+}
+
+/* ...table task.................................. */
+
+.tb4{
+    display: inline;
+}
